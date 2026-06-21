@@ -14,6 +14,7 @@ With 19+ years across cloud infrastructure, platform engineering, SRE, and DevOp
 - 🛰️ **Scale**: Satellite comms infra for millions of users (Ka-band + ViaSat-3)
 - 📋 **Product**: Technical Product Owner since 2023 — roadmaps, design reviews, sprint planning, stakeholder alignment
 - 🤖 **AI/Ops**: Claude API + OpenAI API → MTTR ↓40%, 6+ hrs/week saved
+- 📦 **Open Source**: [platform-aiops-toolkit](https://github.com/smohapatra1/platform-aiops-toolkit) — AI-powered SRE automation
 - ☁️ **Cloud**: AWS · GCP · Kubernetes · Terraform · ArgoCD
 - 📉 **Cost**: $2M+ infra budget · 20%+ YoY cost reduction
 - 🚀 **Delivery**: Months → bi-weekly zero-downtime releases
@@ -21,9 +22,22 @@ With 19+ years across cloud infrastructure, platform engineering, SRE, and DevOp
 
 ---
 
+## Featured Project
+
+### [platform-aiops-toolkit](https://github.com/smohapatra1/platform-aiops-toolkit)
+Production SRE automation toolkit — built and used at scale for a platform engineering team managing satellite communication infrastructure.
+
+- **AI-Ops Debug Runner**: SSH into compute nodes, run diagnostic playbooks, pattern-match against known failure signatures, auto-generate structured runbooks via Claude API
+- **Jira Sprint Summary**: Fetch active sprint, render markdown report with todo/in-progress/done breakdown and completion metrics
+- **Confluence Monthly Update**: Automate monthly all-hands pages — AWS billing, DORA metrics, pipeline health, code review efficiency
+
+**Stack:** Python · Claude API (Anthropic SDK) · OpenAI API · Jira · Confluence · AWS Cost Explorer · DX API
+
+---
+
 ## What I'm Working On
 
-- 🔧 Building production tooling with **Claude API** and **OpenAI API** for SRE automation
+- 🔧 **[platform-aiops-toolkit](https://github.com/smohapatra1/platform-aiops-toolkit)** — open-source SRE automation with Claude API and OpenAI API
 - 📋 Driving product roadmaps and design reviews as **Technical Product Owner**
 - 📊 Exploring **AIOps** — ML anomaly detection, self-healing playbooks, alert correlation
 - 🛠️ Infrastructure as Code patterns with **Terraform** and **Ansible**
@@ -60,7 +74,7 @@ With 19+ years across cloud infrastructure, platform engineering, SRE, and DevOp
 ## Career Journey
 
 ```
-2007 ──► Wichorus            Test Engineer → Sr. Software Engineer   (LTE/WiMax)
+2007 ──► Wichorus            Test Engineer → Sr. Software Engineer   (LTE/WiMax pre-commercial)
 2011 ──► Tellabs             Senior Software Engineer                (WiMax/ASNGW)
 2012 ──► Repeat Consultants  Sr. QA Engineer                        (Samsung/Sprint)
 2015 ──► Viasat              Sr. Quality Engineer                    (Satellite Infra)
@@ -75,7 +89,7 @@ With 19+ years across cloud infrastructure, platform engineering, SRE, and DevOp
 | Area | Impact |
 |---|---|
 | Product Ownership | Roadmaps · design reviews · sprint planning · stakeholder alignment (since 2023) |
-| AI/LLM Automation | MTTR ↓40% · 6+ hrs/week saved |
+| AI/LLM Automation | MTTR ↓40% · 6+ hrs/week saved · open-sourced on GitHub |
 | Cloud Migration | 20% cost reduction on $2M+ budget |
 | CI/CD Overhaul | Months → bi-weekly zero-downtime releases |
 | Reliability | 99.99% uptime · false alerts ↓30% |
@@ -86,7 +100,7 @@ With 19+ years across cloud infrastructure, platform engineering, SRE, and DevOp
 ## Certifications
 
 - 🏅 Certified Scrum Master (CSM)
-- 📚 Continuous Learning: Cloud, AI/ML & DevOps (Udemy)
+- 📚 Continuous Learning: Cloud Architecture, Kubernetes, LangChain & LLMs, CI/CD automation (Udemy)
 
 ---
 
